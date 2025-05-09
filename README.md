@@ -1,4 +1,4 @@
-#DATA ANALYTICS
+# DATA ANALYTICS
 
 *COMPANY*:CODTECH IT SOLUTIONS PVT.LTD
 
@@ -12,7 +12,7 @@
 
 *MENTOR*:NEELA SANTHOSH KUMAR
 
-#Detailed Description of All 4 Internship Tasks
+# Detailed Description of All 4 Internship Tasks
 
 As part of my *Data Analytics Internship* at *CODTECH IT Solutions*, I completed four comprehensive and practical tasks that helped enhance my skills in handling large datasets, analyzing data, applying machine learning models, and generating insights through data visualization. Each task provided exposure to real-world problems and equipped me with valuable industry-relevant techniques and tools.
 
